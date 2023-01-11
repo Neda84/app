@@ -1,2 +1,0 @@
-go to the local directory
-type in comman prompt : voila app_final.ipynb
